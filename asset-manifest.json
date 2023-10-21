@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CACI-starwars/static/css/main.cefbcc41.css",
+    "main.js": "/CACI-starwars/static/js/main.c78760af.js",
+    "static/js/787.07fb52f5.chunk.js": "/CACI-starwars/static/js/787.07fb52f5.chunk.js",
+    "static/media/banner_img.png": "/CACI-starwars/static/media/banner_img.ead937523e8ddbf97b29.png",
+    "static/media/Millennium Falcon.png": "/CACI-starwars/static/media/Millennium Falcon.06cdf29899eff3555737.png",
+    "static/media/X-wing.png": "/CACI-starwars/static/media/X-wing.16290922e78ce88c1e51.png",
+    "static/media/Executor.png": "/CACI-starwars/static/media/Executor.9590672d4d71b862d4bc.png",
+    "static/media/Y-wing.png": "/CACI-starwars/static/media/Y-wing.c8178cdb81a38cea3dbe.png",
+    "static/media/TIE Advanced x1.png": "/CACI-starwars/static/media/TIE Advanced x1.0836f551c5e67b72f0bb.png",
+    "static/media/Death Star.png": "/CACI-starwars/static/media/Death Star.cf51be5ed0900a4542d3.png",
+    "static/media/Sentinel-class landing craft.png": "/CACI-starwars/static/media/Sentinel-class landing craft.e12061e8533d13abe9dc.png",
+    "static/media/Rebel transport.png": "/CACI-starwars/static/media/Rebel transport.f78f1c13c9c96c22602d.png",
+    "static/media/Star Destroyer.png": "/CACI-starwars/static/media/Star Destroyer.333d25ccf2afd9864bba.png",
+    "static/media/CR90 corvette.png": "/CACI-starwars/static/media/CR90 corvette.201c94cffd45801cc053.png",
+    "static/media/Rocket.gif": "/CACI-starwars/static/media/Rocket.9dd581aeb1d96f731653.gif",
+    "index.html": "/CACI-starwars/index.html",
+    "main.cefbcc41.css.map": "/CACI-starwars/static/css/main.cefbcc41.css.map",
+    "main.c78760af.js.map": "/CACI-starwars/static/js/main.c78760af.js.map",
+    "787.07fb52f5.chunk.js.map": "/CACI-starwars/static/js/787.07fb52f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefbcc41.css",
+    "static/js/main.c78760af.js"
+  ]
+}
