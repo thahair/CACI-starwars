@@ -1,0 +1,18 @@
+.card{
+    .card-img-top{
+        height: 165px;
+        object-fit: cover;
+        background-color: #000208;
+    }
+    &:hover{
+        border-color: #ffc107;
+    }
+}
+
+.fw-500{
+    font-weight: 500;
+}
+
+.trophy{
+    width: 24px;
+}
