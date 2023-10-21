@@ -6,11 +6,12 @@ function App() {
   return (
     <div className="App">
     <Header/>
-    <Router>
+    <Home/>
+    {/* <Router>
       <Routes>
-        <Route path="/" exact Component={Home}/>
+        <Route path="/" Component={Home}/>
       </Routes>
-    </Router>
+    </Router> */}
     </div>
   );
 }
